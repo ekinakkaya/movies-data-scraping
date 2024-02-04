@@ -1,4 +1,4 @@
-./imdb_ids/*
+imdb_ids/
 
 *.log
 
