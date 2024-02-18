@@ -1,5 +1,9 @@
 imdb_ids/
+csv_files/
 
 *.log
 
 *.old
+
+asdf.ipynb
+asdf.py
