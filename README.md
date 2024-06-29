@@ -4,4 +4,6 @@ __this project doesn't violate any copyright law nor it does use any non-publicl
 
 # movies-data-scraping
 
+![](https://github.com/ekinakkaya/movies-data-scraping/blob/main/image.png?raw=true)
+
 i wrote some spaghetti code to scrape publicly available movie data from popular sites like imdb or letterboxd.
